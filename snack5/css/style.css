@@ -1,0 +1,24 @@
+.container{
+  height: 100vh;
+  width: 1170px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.square{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+}
+.r{
+ background-color: red;
+}
+.g{
+  background-color: green;
+}
