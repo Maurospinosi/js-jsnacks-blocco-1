@@ -3,6 +3,6 @@
 
 var num = prompt("Inserisci un numero");
 
-for(var i = 0; i<=num; i++ ){
+for(var i = 1; i<=num; i++ ){
   console.log(Math.pow(i, 3));
 }
