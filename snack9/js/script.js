@@ -7,4 +7,4 @@ for(var i=0; i< numInserito.length; i++){
   totale = totale + parseInt(numInserito[i]);
 }
 
-console.log(totale);
+console.log(totale); 
